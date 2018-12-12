@@ -26,8 +26,8 @@ As final considerations:
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
 * Remember when making your plots to consider aesthetics!
-** You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
-** When making your Bubble Plot, experiment with effects like alpha, edgecolor, and linewidths.
-** When making your Pie Chart, experiment with effects like shadow, startangle, and explosion.
+  * You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
+  * When making your Bubble Plot, experiment with effects like alpha, edgecolor, and linewidths.
+  * When making your Pie Chart, experiment with effects like shadow, startangle, and explosion.
+* See Starter Workbook for a reference on expected format. (Note: For this example, you are not required to match the tables or data frames included. Your only goal is to build the scatter plots and bar graphs. Consider the tables to be potential clues, but feel free to approach this problem, however, you like.)
 
-See Starter Workbook for a reference on expected format.

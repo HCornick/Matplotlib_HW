@@ -15,9 +15,10 @@ Your objective is to build a Bubble Plot that showcases the relationship between
 
 In addition, you will be expected to produce the following three pie charts:
 
-% of Total Fares by City Type
-% of Total Rides by City Type
-% of Total Drivers by City Type
+* % of Total Fares by City Type
+* % of Total Rides by City Type
+* % of Total Drivers by City Type
+
 As final considerations:
 
 You must use the Pandas Library and the Jupyter Notebook.
